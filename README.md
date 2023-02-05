@@ -5,16 +5,17 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![MIT License][license-shield]][license-url] -->
+
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CoCasali/market-study-chicken">
-    <img src="images/logo.png" alt="Logo" width="500" height="350">
+  <a href="https://github.com/CoCasali/titanic_ml">
+    <img src="img/logo.png" alt="Logo" width="500" height="350">
   </a>
 
 <h1 align="center">Titanic - Machine Learning</h1>
@@ -22,7 +23,7 @@
   <p align="center">
     I trained in machine learning using the Titanic disaster data. The goal was to predict the survival or non-survival of passengers based on variables such as age, fare, gender, etc. to understand the factors that influence survival in emergency situations.
     <br />
-    <a href="https://github.com/CoCasali/market-study-chicken"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CoCasali/titanic_ml"><strong>Explore the docs »</strong></a>
     <br />
 
   </p>
@@ -50,11 +51,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Start Date : 01-07-2022
+
 **Contextual reminder**\
 I trained in machine learning using the Titanic disaster data. The goal was to predict the survival or non-survival of passengers based on variables such as age, fare, gender, etc. to understand the factors that influence survival in emergency situations.
 
-**Mission objective**\
-- Acquire the data of the Titanic
+**Mission objective**
+- Acquire the data of the Titanic : (https://www.kaggle.com/competitions/titanic/data)
 - Clean the data by removing missing values and converting the data into appropriate format.
 - Analyze the data to understand its structure and determine the variables that can influence the survival of passengers.
 - Transform the data to prepare inputs for the model.
@@ -62,7 +65,7 @@ I trained in machine learning using the Titanic disaster data. The goal was to p
 - Prediction of survival or non-survival of passengers.
 - Evaluating the quality of the model using metrics such as accuracy, f1-score, etc.
 
-**What can be improved?**\
+**What can be improved?**
 - Optimizing the performance of the model using machine learning techniques such as cross-validation and hyperparameter tuning.
 - Interpretation of the results to understand the strengths and limitations of the model.
 
